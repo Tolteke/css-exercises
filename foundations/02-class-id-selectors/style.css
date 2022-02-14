@@ -10,6 +10,13 @@
     font-size: 35px;
 }
 
-#one {}
+#one {
+    color: blue;
+    font-size: 45px;
+}
 
-#two {}
+#two {
+    background-color: lightgreen;
+    font-size: 35px;
+    font-weight: bold;
+}
